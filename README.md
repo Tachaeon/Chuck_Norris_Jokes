@@ -1,6 +1,6 @@
 # Chuck Norris Jokes GUI
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tachaeon/Chuck_Norris_Jokes/main/images/chuck.png" />
+  <img src="https://raw.githubusercontent.com/Tachaeon/Chuck_Norris_Jokes/main/Images/chuck.png" />
   <br>Pulls Chuck Norris jokes from https://api.chucknorris.io API.
 </p>
 
