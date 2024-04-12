@@ -5,7 +5,7 @@
 </p>
 
 ## Now with Toast Notifications and Teams Notifications!
-- Add the Teams Notification to task scheduler and get a dad joke every 30 minutes!
+- Add the Teams Notification to task scheduler and get a Chuck joke every 30 minutes!
 - Send a Toast notification to your coworkers.
 
 ## How to use
